@@ -47,15 +47,15 @@ github-репозиториев с созданием issues.
 
 [Почему именно Haskell](why-haskell.md)
 
-[Первое задание: теория](theoretical-task.md)
+[Задание 1: теория](theoretical-task.md)
 
-[Второе задание: задачки по языку](exercises-task.md)
+[Задание 2: задачки по языку](exercises-task.md)
 
-[Третье задание: бот](bot-task.md)
+[Задание 3: бот](bot-task.md)
 
-[Четвертое задание: веб-сервер](server-task.md)
+[Задание 4: веб-сервер](server-task.md)
 
-[Пятое задание: ревью](review-task.md)
+[Задание 5: ревью](review-task.md)
 
 [Интервью по теоретическим вопросам](interview.md)
 
