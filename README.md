@@ -47,6 +47,8 @@ github-репозиториев с созданием issues.
 
 [Почему именно Haskell](why-haskell.md)
 
+[Важное требование: отчеты](how-to-learn.md)
+
 [Задание 1: теория](theoretical-task.md)
 
 [Задание 2: задачки по языку](exercises-task.md)
