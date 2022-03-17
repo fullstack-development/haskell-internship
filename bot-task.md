@@ -39,8 +39,8 @@
 
 
 1. Для основного кода проекта (кроме тестов) использовать только библиотеки из
-   стандартной поставки Haskell Platform (bytestring, text, mtl etc, [полный
-   список](https://www.haskell.org/platform/contents.html)) и три сторонние:
+   стандартной поставки [Haskell Platform](haskell-platform-package-list.md) и
+   три сторонние:
 
    1. Для отправки http-запросов
    2. Для парсинга json
