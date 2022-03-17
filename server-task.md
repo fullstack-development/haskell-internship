@@ -194,7 +194,8 @@
       `configurator`, `dhall`
    5. вероятно, вам понадобится `text`, `bytestring`, `http-types`,
       `network-uri`, `containers`, `unordeded-containers`, `base64`,
-      `base64-bytestring`, `vector`, `array` и т.п. В целом можно использовать
+      `base64-bytestring`, `vector`, `array` и другие библиотеки из
+      [Haskell Platform](haskell-platform-package-list.md). В целом можно использовать
       почти все подобные простые библиотеки. Библиотека должна решать одну
       задачу, а не вести себя как фреймворк, т.е. не работать одновременно с
       базой и вебом. Если у вас есть сомнения, можно ли использовать библиотеку,
