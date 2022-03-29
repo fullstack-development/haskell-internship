@@ -46,7 +46,7 @@
 
 
 1. Можно взять за основу
-   [шаблон проекта](https://github.com/fullstack-development/haskell-internship/echo-bot-template).
+   [шаблон проекта](https://github.com/fullstack-development/haskell-internship/tree/master/echo-bot-template).
    Он содержит "скелет" логики бота и некоторые тесты. Запустите `stack test` и
    попробуйте исправить логику, чтобы тесты начали проходить. Шаблон можно как угодно
    править по своему усмотрению, а можно не использовать совсем.
