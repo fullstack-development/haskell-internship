@@ -124,9 +124,9 @@
 10. Чтобы добиться понятной архитектуры проекта, и получить тестируемый код,
     также можно применять различные техники (паттерны) описанные сообществом:
 
-  - [The Service Pattern](https://www.schoolofhaskell.com/user/meiersi/the-service-pattern)
-  - [The ReaderT Design Pattern (Discussion)](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern)
-  - [Three Layer Haskell Cake](https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html)
+    - [The Service Pattern](https://www.schoolofhaskell.com/user/meiersi/the-service-pattern)
+    - [The ReaderT Design Pattern (Discussion)](https://www.fpcomplete.com/blog/2017/06/readert-design-pattern)
+    - [Three Layer Haskell Cake](https://www.parsonsmatt.org/2018/03/22/three_layer_haskell_cake.html)
 
 11. Полезно почитать требования к проекту из задания 5 (код-ревью). На старте
     проекта необязательно забивать себе ими голову — потом успеете, но,
