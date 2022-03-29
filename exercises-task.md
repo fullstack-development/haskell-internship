@@ -3,7 +3,7 @@
 
 https://www.schoolofhaskell.com/user/DanBurton/20-intermediate-exercises
 
-Обязательные для прохождения каты:
+Рекомендуемые каты:
 
 1. [Бесконечные структуры](https://www.codewars.com/kata/functional-streams)
 
@@ -27,7 +27,7 @@ https://www.schoolofhaskell.com/user/DanBurton/20-intermediate-exercises
 
 5. [Изоморфизм (на самом деле довольно простая и интересная ката)](https://www.codewars.com/kata/isomorphism)
 
-Необязательные для прохождения:
+Необязательные каты:
 
 1. [Алгебраические изоморфизмы (после каты Изоморфизм)](https://www.codewars.com/kata/algebraic-isomorphism/haskell)
 

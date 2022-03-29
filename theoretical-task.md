@@ -36,7 +36,7 @@
 
 - Минимум, необходимый для написания самых простых проектов: [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters).
 
-- Параллельно выполняйте [каты из Codewars](required-katas.md)
+- Параллельно выполняйте [каты из Codewars](basic-katas.md)
 
 - Обязательно [попробуйте](https://www.codewars.com/kata/search/haskell) найти и
   пройти от 3-х кат самостоятельно! Можете взглянуть на [список дополнительных
