@@ -13,7 +13,7 @@
   [`putStrLn`](https://hackage.haskell.org/package/base-4.16.0.0/docs/Prelude.html#v:putStrLn)).
 - Telegram: https://core.telegram.org/bots/api#poll
 
-Вместо Telegram можно выбрать VK (см. [документацию](https://vk.com/dev/bots_longpoll) или Slack.
+Вместо Telegram можно выбрать VK (см. [документацию](https://vk.com/dev/bots_longpoll)) или Slack.
 
 
 ## Функциональные требования
