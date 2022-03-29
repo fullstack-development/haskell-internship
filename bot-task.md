@@ -145,7 +145,7 @@
 
 * Полезные статьи для данного задания:
 
-  * https://tproger.ru/translations/telegram-bot-create-and-deploy/amp/ - по поводу бота
+  * [Telegram-бот на Python: от первой строчки до запуска на Heroku](https://web.archive.org/web/20210120102233/https://tproger.ru/translations/telegram-bot-create-and-deploy/amp/)
   * https://artyom.me/aeson
   * https://ruhaskell.org/posts/packages/2015/02/03/aeson-hello-world.html
   * https://ruhaskell.org/posts/packages/2015/03/05/aeson-next.html
