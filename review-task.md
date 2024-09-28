@@ -42,7 +42,7 @@
 14. Проект запускается и работает с конфигом проверяющего (например, чтобы можно было проверить работу бота с другим токеном).
 15. Все изменения в проект в процессе код-ревью вносятся через пулл-реквесты. В ПР указывается ссылка на ишью.
 16. По максимуму исключено использование синонимов типов `type` в пользу `newtype`.
-17. Не запрещается использовать [RecordWildCards](https://ruhaskell.org/posts/extensions/2021/04/06/RecordWildCards.html) в случаях, когда это улучшает читаемость кода.
+17. Не запрещается использовать [RecordWildCards](https://ruhaskell.org/posts/extensions/2021/04/06/RecordWildCards.html) и [OverloadedRecordDot](https://ghc.gitlab.haskell.org/ghc/doc/users_guide/exts/overloaded_record_dot.html) в случаях, когда это улучшает читаемость кода.
 
 ## Рекомендуемые источники по оформлению кода
 
